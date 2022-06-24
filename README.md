@@ -1,6 +1,6 @@
 # Bloc_2-Projet_Speed_Dating 
 
-## Presentation's video 🎥 
+## Project's presentation 🎥 
 https://share.vidyard.com/watch/9fLUzJpxtEe2kqvb9GM2nx?![image](https://user-images.githubusercontent.com/94960539/175510663-2311175e-e52a-4d73-9caa-6673b52afe4a.png)
 
 ## Goals 🎯
